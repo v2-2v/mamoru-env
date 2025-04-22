@@ -11,7 +11,7 @@ setting/sub.json
 ```
 sub.jsonはテスト用です
 起動時に選択できます
-一番上の階層で(botのプログラム)[https://github.com/v2-2v/mamoru]をcloneしてください
+一番上の階層で[botのプログラム](https://github.com/v2-2v/mamoru)をcloneしてください
 
 jsonの設定項目
 ```
