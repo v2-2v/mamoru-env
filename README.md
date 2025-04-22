@@ -14,7 +14,7 @@ sub.jsonはテスト用です
 一番上の階層でbotのプログラムをcloneしてください
 
 jsonの設定項目
-`
+```
 "tukaikatachid" #使い方を書くチャンネル
 "kadaichid" #課題がセットされるチャンネル
 "cmdchid" #BOTを操作するチャンネル
@@ -25,4 +25,4 @@ jsonの設定項目
 "logchid" #logチャンネル
 "guildid" #disocrd server id
 "TOKEN" #discord bot token
-`
+```
